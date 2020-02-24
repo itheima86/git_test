@@ -11,4 +11,8 @@ public class user {
 
         return "马云";
     }
+    public String getage(){
+
+        return "50";
+    }
 }
